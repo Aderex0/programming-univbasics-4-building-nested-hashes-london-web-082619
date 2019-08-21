@@ -1,5 +1,5 @@
 def base_hash
-	hash = {:color => "brown"}
+	hash = {:railroads => "brown"}
 end
 
 def monopoly_with_second_tier
